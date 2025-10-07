@@ -11,7 +11,7 @@ This project is a **machine learning pipeline** designed to classify individuals
 - Ready-to-use Python scripts and Jupyter Notebook for demonstration.
 
 ## Technologies Used
-- **Languages:** Python 3.x  
+- **Languages:** Python 
 - **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Seaborn  
 - **Machine Learning:** scikit-learn, XGBoost  
 - **Development Tools:** Jupyter Notebook, VS Code, Git, GitHub  
