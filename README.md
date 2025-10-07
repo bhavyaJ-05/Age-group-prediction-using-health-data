@@ -45,3 +45,15 @@ This project is a **machine learning pipeline** designed to classify individuals
 - Visualizations include feature distributions and correlation heatmaps.
 
 ## Project Structure
+Age-Group-Prediction/
+│
+├── data/ # Dataset files
+├── Age_Group_Prediction.ipynb # Main Jupyter notebook
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+└── outputs/ # Model evaluation plots and results
+
+## Key Achievements
+- Developed a **complete ML workflow** from preprocessing to modeling.  
+- Implemented **feature transformations and imputation** techniques to handle missing/outlier values.  
+- Tuned multiple models for **optimal classification performance**.  
